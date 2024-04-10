@@ -1,8 +1,8 @@
 .fondo  {
-    background-color: red;
+    background-color: rgb(202, 176, 176);
 }
 
 .miTexto {
     font-size: 80px;
-    color: green;
+    color: rgb(152, 221, 152);
 }
